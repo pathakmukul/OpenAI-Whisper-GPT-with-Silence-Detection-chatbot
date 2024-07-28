@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit==1.24.0
+pyaudio==0.2.13
+numpy==1.24.3
+scipy==1.10.1
+openai==0.27.8
+
+# Audio processing
+wave==0.0.2
+noisereduce==2.0.1
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Optional: for better performance
+numba==0.57.1
