@@ -1,18 +1,19 @@
 # OpenAI-Whisper-GPT-with-Silence-Detection-chatbot
-Real-time audio recording and transcription system using Streamlit, and OpenAI's Whisper model on Streamlit. With continuous audio capture with silence detection
+Real-time audio transcription & AI response system using and OpenAI's Whisper & GPT model on Streamlit. With continuous audio capture with silence detection.
 ![DALL·E 2024-07-28 14 37 25 - Create a radical, eye-catching graphic for a tech project titled 'OpenAI-GPT-Whisper-with-Silence-Detection-chatbot'  The graphic should feature dynam copy](https://github.com/user-attachments/assets/3ebba866-c947-4f96-a21a-d11109b3ea81)
 
 
 ## Overview
 
-This project implements a real-time audio recording and transcription system using Python, Streamlit, and OpenAI's Whisper model. It features continuous audio capture with silence detection, allowing for automatic segmentation of audio input. The system is designed to work with various audio input devices and can be easily integrated into applications requiring speech-to-text functionality.
+This project implements a real-time audio recording, transcription and AI response system using Python, Streamlit, and OpenAI's Whisper & GPT model. It features continuous audio capture with silence detection, allowing for automatic segmentation of audio input. The system is designed to work with various audio input devices(mic, system) and can easily create responses based on what is asked.
 
 ## Features
 
 - Real-time audio recording from selected input devices
 - Silence detection for automatic audio segmentation
 - Integration with OpenAI's Whisper model for transcription
-- Simple and interactive Streamlit-based user interface
+- Prompt based reponse on captured transcription through GPT
+- Simple and interactive Streamlit-based chat interface
 - Continuous processing and transcription of audio segments
 - Configurable parameters for silence detection and recording duration
 
