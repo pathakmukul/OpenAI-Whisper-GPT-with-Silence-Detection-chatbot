@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
    ``` 
    git clone https://github.com/pathakmukul/OpenAI-Whisper-GPT-with-Silence-Detection-chatbot.git
-   cd continuous-audio-transcription
+   cd OpenAI-Whisper-GPT-with-Silence-Detection-chatbot
    ```
 
 2. Create a virtual environment (optional but recommended):
